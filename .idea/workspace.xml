@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff27f19e-0a6b-4520-8013-fb82b58def58" name="변경" comment="New Repo">
-      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Yujinsu1356.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/CutChocolate2163.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,30 +44,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;애플리케이션.Prompt1032.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.StrangeMultiple1225.executor&quot;: &quot;Run&quot;,
-    &quot;애플리케이션.TeamName1296.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true",
+    "애플리케이션.CutChocolate.executor": "Run",
+    "애플리케이션.Distance2399.executor": "Run",
+    "애플리케이션.Prompt1032.executor": "Run",
+    "애플리케이션.StrangeMultiple1225.executor": "Run",
+    "애플리케이션.TeamName1296.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\hy892\IdeaProjects\baekjoon\src\bronze" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.StrangeMultiple1225">
+  <component name="RunManager" selected="애플리케이션.CutChocolate2163">
+    <configuration name="CutChocolate2163" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronzesilver.CutChocolate2163" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bronzesilver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Distance2399" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronzesilver.Distance2399" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bronzesilver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Prompt1032" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bronzesilver.Prompt1032" />
       <module name="baekjoon" />
@@ -109,6 +137,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.CutChocolate2163" />
+        <item itemvalue="애플리케이션.Distance2399" />
         <item itemvalue="애플리케이션.StrangeMultiple1225" />
         <item itemvalue="애플리케이션.Prompt1032" />
         <item itemvalue="애플리케이션.TeamName1296" />
@@ -145,6 +175,14 @@
       <workItem from="1727447422941" duration="969000" />
       <workItem from="1727530594172" duration="1525000" />
       <workItem from="1727701814900" duration="477000" />
+      <workItem from="1727792342141" duration="638000" />
+      <workItem from="1727865732766" duration="1431000" />
+      <workItem from="1727967143946" duration="142000" />
+      <workItem from="1727969025775" duration="9000" />
+      <workItem from="1728133148477" duration="652000" />
+      <workItem from="1728300266531" duration="3211000" />
+      <workItem from="1728397112402" duration="596000" />
+      <workItem from="1728571639003" duration="279000" />
     </task>
     <task id="LOCAL-00001" summary="New Repo">
       <option name="closed" value="true" />
