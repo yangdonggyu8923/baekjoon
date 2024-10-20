@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff27f19e-0a6b-4520-8013-fb82b58def58" name="변경" comment="New Repo">
-      <change afterPath="$PROJECT_DIR$/src/bronzesilver/SumOfPair5217.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +61,7 @@
     &quot;애플리케이션.Distance2399.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.Prompt1032.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.StrangeMultiple1225.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SumOfPair5217.executor&quot;: &quot;Run&quot;,
     &quot;애플리케이션.TeamName1296.executor&quot;: &quot;Run&quot;
   }
 }</component>
@@ -70,7 +70,20 @@
       <recent name="C:\Users\hy892\IdeaProjects\baekjoon\src\bronze" />
     </key>
   </component>
-  <component name="RunManager" selected="애플리케이션.SumOfPair5217">
+  <component name="RunManager" selected="애플리케이션.Baek1977">
+    <configuration name="Baek1977" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronzesilver.Baek1977" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bronzesilver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CutChocolate2163" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bronzesilver.CutChocolate2163" />
       <module name="baekjoon" />
@@ -110,19 +123,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StrangeMultiple1225" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bronzesilver.StrangeMultiple1225" />
-      <module name="baekjoon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="bronzesilver.Dice1233" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SumOfPair5217" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bronzesilver.SumOfPair5217" />
       <module name="baekjoon" />
@@ -138,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.Baek1977" />
         <item itemvalue="애플리케이션.SumOfPair5217" />
         <item itemvalue="애플리케이션.DeleteDuplication4592" />
         <item itemvalue="애플리케이션.CutChocolate2163" />
         <item itemvalue="애플리케이션.Distance2399" />
-        <item itemvalue="애플리케이션.StrangeMultiple1225" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +186,9 @@
       <workItem from="1728571639003" duration="299000" />
       <workItem from="1728657858396" duration="619000" />
       <workItem from="1728917005099" duration="359000" />
-      <workItem from="1729050674019" duration="1988000" />
+      <workItem from="1729050674019" duration="3350000" />
+      <workItem from="1729259846421" duration="218000" />
+      <workItem from="1729425638414" duration="911000" />
     </task>
     <task id="LOCAL-00001" summary="New Repo">
       <option name="closed" value="true" />
