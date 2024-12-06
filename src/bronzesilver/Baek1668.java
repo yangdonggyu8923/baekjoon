@@ -12,7 +12,7 @@ public class Baek1668 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-        int N = Integer.parseInt(br.readLine()); //총 트로피 수
+        int N = Integer.parseInt(br.readLine());
 
         int[] trophy = new int[N];
         int top = 0;
