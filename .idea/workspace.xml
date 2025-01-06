@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff27f19e-0a6b-4520-8013-fb82b58def58" name="변경" comment="New Repo">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baekjoon.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/AB10952.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/ABThree10950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/APB11021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/APB11022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/APB15740.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Abstract1001.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Ah4999.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/AiWatch2530.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/AutoComplete24883.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Average10039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Average4344.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Average4344_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek10205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek10569.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1059.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek10797.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek10872.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek11653.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek11719.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek11723.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1371.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1373.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1392.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1408.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1453.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek14909.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1526.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1550.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek15727.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek15733.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1592.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek16199.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek16204.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1668.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1712.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1773.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1837.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1864.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1964.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1977.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek1978.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek2010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek2033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek2061.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek2139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek21964.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek2292.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek23971.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek27110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek2816.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek28352.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek2857.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek3733.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek4299.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek4504.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Baek9655.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Ball1547.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Basketball1159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/BigInt13277.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/BigIntAdd10757.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/BinaryAddition1252.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Bird1568.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/BookOrganize1434.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Bunsan1009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/CAPS15000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/CYsClock12840.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Cake17256.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Call1333.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Call5339.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/CardGame5522.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/CharString27866.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Compare4101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Count10807.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/CutChocolate2163.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/DeleteDuplication4592.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Dice1233.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Dice9295.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Dices2480.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/DigitalTV2816.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Distance2399.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Divide1008.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Divide1075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Drainage1145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/EasyProblem1292.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Escape1085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Exercise1173.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/FactorialTwo27433.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Fan14581.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/FileMove11943.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/FootballTeam5358.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Fraction1193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Get2501.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/God13163.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/GroupWordChecker1316.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Gugudan2739.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Holsu2576.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Hook10189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/InputOutput11718.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/JerryTom16430.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Jinsu821434.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Kriii10718.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Leaf25083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/LeafYear2753.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/LineNumber4470.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/LongCal2338.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Look2393.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Max2562.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Microsoft5338.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/MinMax10818.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Moum10987.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/MultipleAndFactor5086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/NFC10170.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/NReverse2742.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Nabu9654.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/OneStar24900.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Online1246.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Palendrom1259.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Parallelogram1064.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/PartyEnd2845.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Pet1362.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/PlusCycle1110.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Prompt1032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Pyramids5341.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Quadrant14681.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/RSP4493.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/RealSpace1350.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Receipt25304.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Rectangle27323.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Resistance1076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/ReverseSum1357.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Rice27294.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Rich1271.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Road5554.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/RugbyClub2083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/SafariWorld2420.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/SangGuenFriends5717.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Sign1247.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/SmallNum10871.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/SpecialDay10768.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/SpecialSchoolName27889.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Star2444.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Star2445.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Star2446.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/StarSix2443.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/StarWarz9653.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Start15962.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/StrangeMultiple1225.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Sum2558.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Sum8393.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/SumOfPair5217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/TVSize1297.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/TailNum1598.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Tax20492.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/TeamName1296.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/TemporaryCpt1268.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/ThreeNum2752.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Today10699.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/TriangleAndEdge5073.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/TriangleMemorize10101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/UpperLowerString2744.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/VacationHomework5532.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Welcome5337.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/WhiteSpace1100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Word1157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/WordCount1152.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/WordCount2577.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/WordSort1181.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Yonsei15680.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bronzesilver/Yujinsu1356.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yangdonggyu8923&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yangdonggyu8923/baekjoon.git&quot;,
+    &quot;accountId&quot;: &quot;7c069c31-82ac-44a3-a31c-25e971afe707&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2m0bBBXZAHMmUAKSVDxPQLUFJvs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
+    &quot;애플리케이션.Baek10872.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Baek14909.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Baek1550.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Baek15727.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Baek26645.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.CutChocolate.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.DeleteDuplication4592.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Distance2399.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.Prompt1032.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.StrangeMultiple1225.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.SumOfPair5217.executor&quot;: &quot;Run&quot;,
+    &quot;애플리케이션.TeamName1296.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hy892\IdeaProjects\baekjoon\src\bronze" />
+    </key>
+  </component>
+  <component name="RunManager" selected="애플리케이션.Baek10872">
+    <configuration name="Baek10872" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronzesilver.Baek10872" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bronzesilver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baek1550" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronzesilver.Baek1550" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bronzesilver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baek15727" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronzesilver.Baek15727" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bronzesilver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baek21964" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronzesilver.Baek21964" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bronzesilver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Baek26645" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bronzesilver.Baek26645" />
+      <module name="baekjoon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bronzesilver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="애플리케이션.Baek10872" />
+        <item itemvalue="애플리케이션.Baek26645" />
+        <item itemvalue="애플리케이션.Baek15727" />
+        <item itemvalue="애플리케이션.Baek21964" />
+        <item itemvalue="애플리케이션.Baek1550" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="ff27f19e-0a6b-4520-8013-fb82b58def58" name="변경" comment="" />
+      <created>1726216304888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726216304888</updated>
+      <workItem from="1726216305940" duration="278000" />
+      <workItem from="1726475332861" duration="916000" />
+      <workItem from="1726566301131" duration="1034000" />
+      <workItem from="1726747365209" duration="558000" />
+      <workItem from="1726830370917" duration="3334000" />
+      <workItem from="1726925129384" duration="1411000" />
+      <workItem from="1727013929521" duration="295000" />
+      <workItem from="1727082294327" duration="3002000" />
+      <workItem from="1727185696678" duration="2051000" />
+      <workItem from="1727273155495" duration="767000" />
+      <workItem from="1727355935328" duration="698000" />
+      <workItem from="1727447422941" duration="969000" />
+      <workItem from="1727530594172" duration="1525000" />
+      <workItem from="1727701814900" duration="477000" />
+      <workItem from="1727792342141" duration="638000" />
+      <workItem from="1727865732766" duration="1431000" />
+      <workItem from="1727967143946" duration="142000" />
+      <workItem from="1727969025775" duration="9000" />
+      <workItem from="1728133148477" duration="652000" />
+      <workItem from="1728300266531" duration="3211000" />
+      <workItem from="1728397112402" duration="596000" />
+      <workItem from="1728571639003" duration="299000" />
+      <workItem from="1728657858396" duration="619000" />
+      <workItem from="1728917005099" duration="359000" />
+      <workItem from="1729050674019" duration="3350000" />
+      <workItem from="1729259846421" duration="218000" />
+      <workItem from="1729425638414" duration="911000" />
+      <workItem from="1729520621403" duration="39000" />
+      <workItem from="1729604184388" duration="854000" />
+      <workItem from="1729694861734" duration="319000" />
+      <workItem from="1729781071935" duration="156000" />
+      <workItem from="1729866174116" duration="78000" />
+      <workItem from="1729952279168" duration="1362000" />
+      <workItem from="1730123733972" duration="332000" />
+      <workItem from="1730209308564" duration="178000" />
+      <workItem from="1730296660235" duration="688000" />
+      <workItem from="1730385381638" duration="825000" />
+      <workItem from="1730458814642" duration="103000" />
+      <workItem from="1730555196471" duration="86000" />
+      <workItem from="1730727803529" duration="34000" />
+      <workItem from="1730811010018" duration="906000" />
+      <workItem from="1730976822627" duration="354000" />
+      <workItem from="1731076126236" duration="630000" />
+      <workItem from="1731327979974" duration="796000" />
+      <workItem from="1731406089387" duration="788000" />
+      <workItem from="1731503686114" duration="131000" />
+      <workItem from="1731593912252" duration="147000" />
+      <workItem from="1731756291062" duration="7000" />
+      <workItem from="1731756301954" duration="2000" />
+      <workItem from="1731852715097" duration="123000" />
+      <workItem from="1731931003806" duration="639000" />
+      <workItem from="1732025438881" duration="112000" />
+      <workItem from="1732195704907" duration="110000" />
+      <workItem from="1732284319065" duration="35000" />
+      <workItem from="1732532694126" duration="962000" />
+      <workItem from="1732621698980" duration="1819000" />
+      <workItem from="1732715955978" duration="3579000" />
+      <workItem from="1732887751750" duration="24000" />
+      <workItem from="1733063203954" duration="152000" />
+      <workItem from="1733231490454" duration="791000" />
+      <workItem from="1733493298290" duration="298000" />
+      <workItem from="1733581969719" duration="78000" />
+      <workItem from="1733751882809" duration="228000" />
+      <workItem from="1733841104685" duration="481000" />
+      <workItem from="1733920043925" duration="18000" />
+      <workItem from="1733920352080" duration="27000" />
+      <workItem from="1734183054184" duration="130000" />
+      <workItem from="1734345970572" duration="103000" />
+      <workItem from="1735733931927" duration="1358000" />
+      <workItem from="1735904432488" duration="13000" />
+      <workItem from="1735978423754" duration="27000" />
+      <workItem from="1736174269065" duration="467000" />
+      <workItem from="1736174747881" duration="239000" />
+      <workItem from="1736174997826" duration="312000" />
+    </task>
+    <task id="LOCAL-00001" summary="New Repo">
+      <option name="closed" value="true" />
+      <created>1726216548957</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726216548957</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New Repo" />
+    <option name="LAST_COMMIT_MESSAGE" value="New Repo" />
+  </component>
+</project>
