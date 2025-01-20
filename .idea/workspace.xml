@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff27f19e-0a6b-4520-8013-fb82b58def58" name="변경" comment="New Repo" />
+    <list default="true" id="ff27f19e-0a6b-4520-8013-fb82b58def58" name="변경" comment="New Repo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bronzesilver/Baek7568.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bronzesilver/Baek7568.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,6 +245,8 @@
       <workItem from="1736251124731" duration="672000" />
       <workItem from="1736413679137" duration="1875000" />
       <workItem from="1736511642248" duration="840000" />
+      <workItem from="1736680935899" duration="1267000" />
+      <workItem from="1736858706071" duration="1020000" />
     </task>
     <task id="LOCAL-00001" summary="New Repo">
       <option name="closed" value="true" />
